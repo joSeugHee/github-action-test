@@ -3,3 +3,7 @@
 // 이거 만들어줘
 
 console.log("hello");
+
+// TODO: hello
+// labels: bug
+// ㅋㅋ
